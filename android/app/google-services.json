@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170925379500",
+    "project_id": "fieldforcemanagement-b802b",
+    "storage_bucket": "fieldforcemanagement-b802b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170925379500:android:0b7fc0f7c13f41277af409",
+        "android_client_info": {
+          "package_name": "com.logindemo.mvppattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170925379500-nsel3qhogiar3dk1j1hfk8dqhq66ndpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgl-j-8mRyCI77NR1MUoeh3ZXu2qyxmuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170925379500-nsel3qhogiar3dk1j1hfk8dqhq66ndpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
